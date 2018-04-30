@@ -25,6 +25,4 @@ When running this nodebot script, the functions written in the code can be acces
 
 ## Enjoy this project? Support the author!
 
-## Support The Author!
-
 I hope you enjoyed this little project! I hope you found it helpful. Feel free to [support me and get perks through my Patreon](https://www.patreon.com/IainIsCreative)! Alternatively, [you can donate to my PayPal](https://paypal.me/IainIsCreative) [follow me on Twitter](https://twitter.com/IainIsCreative) and [subscribe to my mailing list](http://iain.is/) to get updates!
