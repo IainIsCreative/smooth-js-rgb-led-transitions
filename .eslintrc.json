@@ -1,0 +1,15 @@
+{
+  "extends": [
+    "airbnb-base",
+    "plugin:flowtype/recommended"
+  ],
+  "plugins": [
+    "flowtype"
+  ],
+  "rules": {
+    "func-names": "off",
+    "space-before-function-paren": "off",
+    "padded-blocks": "off",
+    "no-console": "off"
+  }
+}
